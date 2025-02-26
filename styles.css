@@ -1,0 +1,21 @@
+* {
+  color: cadetblue;
+  font-family: "Courier New", Arial, "Times New Roman";
+  background-color: beige;
+}
+
+#title {
+  font-weight: bolder;
+  text-align: center;
+}
+
+.home,
+.link a {
+  color: orange;
+  font-weight: bolder;
+}
+
+#directions,
+.para {
+  text-align: center;
+}
